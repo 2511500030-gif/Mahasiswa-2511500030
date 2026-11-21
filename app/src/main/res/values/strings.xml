@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">2511500030-PDCS</string>
+    <string name="test_connection">Test Koneksi API</string>
+    <string name="connection_status">Status Koneksi: Belum diuji</string>
+</resources>
