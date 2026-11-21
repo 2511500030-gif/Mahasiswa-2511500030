@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "2511500030-PDCS"
+rootProject.name = "Mahasiswa"
 include(":app")
  
